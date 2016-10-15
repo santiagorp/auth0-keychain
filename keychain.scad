@@ -2,7 +2,7 @@
 // The available fonts can be found on Help -> Font list
 name = "";
 fontSize = 7;
-font = "Verdana"; // ...or "Arial:style=Bold", from the Font list
+font = ""; // ...or "Arial:style=Bold", from the Font list
 
 render();
 
