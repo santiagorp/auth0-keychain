@@ -8,4 +8,6 @@ https://github.com/l0b0/paths2openscad.git
 
 With openscad, just press F5 to compile, F6 to render and export it to STL.
 
+You can customize engraving your name in the back! Just open the .scad file and update your name.
+
 More models to come!
